@@ -1,5 +1,5 @@
 # Hi there, I'm Melanie Saina 👋
-
+Hi, my name is Melanie, a tech enthusiast. My preferred languages are Java and Python . I however hove some experience in a little bit of everything!
 ## GitHub Stats
 
 <!-- GitHub Stats Chart - You can use an external service like shields.io or a GitHub Action to generate dynamic content -->

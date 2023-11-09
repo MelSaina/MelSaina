@@ -10,7 +10,7 @@
 
 <!-- Add a chart for your coding activity, you can use GitHub Actions to update this regularly -->
 
-[![My Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=MelSaina&layout=compact)](https://github.com/MelSaina)
+[![My Coding Activity](https://github.com/your-username/your-username/blob/main/metrics.plugin.activity.svg)](https://github.com/lowlighter/metrics)
 
 ## My Top Languages
 

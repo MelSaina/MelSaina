@@ -19,4 +19,4 @@ Hi, my name is Melanie, a tech enthusiast. My preferred languages are Java and P
 
 ## Wakatime Week Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MelSaina)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MelSaina)](https://github.com/MelSaina/github-readme-stats)

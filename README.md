@@ -17,6 +17,4 @@ Hi, my name is Melanie, a tech enthusiast. My preferred languages are Java and P
 
 ![Melane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelSaina&hide=contribs,prs)
 
-## Wakatime Week Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MelSaina)](https://github.com/MelSaina/github-readme-stats)
